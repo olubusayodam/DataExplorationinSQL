@@ -1,4 +1,4 @@
-# DataExplorationinSQL
+# Data Exploration in SQL
 #  Project Name: COVID-19 Data Exploration using SQL
 
 
