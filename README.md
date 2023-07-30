@@ -57,7 +57,7 @@ The SQL queries have been executed on the COVIDDeaths and COVIDVaccinations data
   Additionally, countries with the highest infection rates and death counts per population are identified, providing insights into regions with a high COVID-19 burden.
 
 Recommendations:
-Based on the findings from the data analysis, we propose the following recommendations:
+Based on the findings from the data analysis, I propose the following recommendations:
 
 1. Strengthen Healthcare Systems: Countries with high infection rates and death counts per population should prioritize strengthening their healthcare systems to cope with the pandemic's impact. This includes increasing hospital capacities, ensuring sufficient medical supplies, and implementing effective treatment protocols.
 
