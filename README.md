@@ -57,17 +57,19 @@ The SQL queries have been executed on the COVIDDeaths and COVIDVaccinations data
    Additionally, countries with the highest infection rates and death counts per population are identified, providing insights into regions with a high COVID-19 burden.
 
    Recommendations:
- Based on the findings from the data analysis, we propose the following recommendations:
+   
+   Based on the findings from the data analysis, we propose the following recommendations:
+1  Strengthen Healthcare Systems: Countries with high infection rates and death counts per population should prioritize strengthening their healthcare systems to cope with the pandemic's impact. This 
+   includes increasing hospital capacities, ensuring sufficient medical supplies, and implementing effective treatment protocols.
+2  Implement Preventive Measures: To reduce the likelihood of COVID-19 transmission and mitigate the severity of the pandemic, governments should continue to implement and enforce preventive measures such 
+   as social distancing, mask-wearing, and promoting hygiene practices.
+3  Monitor High-Risk Locations: Special attention should be given to countries with high infection rates and death percentages to monitor the situation closely and implement targeted interventions in 
+   high- risk areas.
+4  Vaccination Campaigns: Vaccination efforts should be intensified to increase population immunity against COVID-19. Governments should prioritize vaccination campaigns, especially in regions with high 
+   infection rates, to protect public health.
 
- 1. Strengthen Healthcare Systems: Countries with high infection rates and death counts per population should prioritize strengthening their healthcare systems to cope with the pandemic's impact. This includes increasing hospital capacities, ensuring sufficient medical supplies, and implementing effective treatment protocols.
-
- 2. Implement Preventive Measures: To reduce the likelihood of COVID-19 transmission and mitigate the severity of the pandemic, governments should continue to implement and enforce preventive measures such as social distancing, mask-wearing, and promoting hygiene practices.
-
- 3. Monitor High-Risk Locations: Special attention should be given to countries with high infection rates and death percentages to monitor the situation closely and implement targeted interventions in high-risk areas.
-
- 4. Vaccination Campaigns: Vaccination efforts should be intensified to increase population immunity against COVID-19. Governments should prioritize vaccination campaigns, especially in regions with high infection rates, to protect public health.
-
-SQL Queries and Dataset Files:
+   
+        SQL Queries and Dataset Files:
 The SQL queries used for data exploration can be found in the attached SQL file. The dataset files used for analysis are "COVIDDeaths.xls" and "COVIDVaccinations.xls," both of which are included in this repository.
 Please note that the provided SQL queries have been utilized to extract and analyze the data, and the documentation summarizes the key findings and recommendations based on the analysis.
 For any further analysis or specific insights required, additional SQL queries or data visualization techniques can be applied. 
